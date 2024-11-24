@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm currently sorting out my GitHub ... *at long long last*
+I am a data scientist based in Bristol. Here is my currently under-populated GitHub!
 
-Gimme a moment ;)
+This space is for practice purposes only - please feel free to borrow whatever you feel like.
+
+Best wishes,
+
+Andrew
 
 <!--
 **andrew-data-git/andrew-data-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
