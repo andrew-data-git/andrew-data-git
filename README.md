@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am a data scientist based in Bristol. Here is my currently under-populated GitHub!
-
+📊 💻 👨‍💻
+I am a data professional based in Bristol. Here is my currently under-populated GitHub! 
 This space is for practice purposes only - please feel free to borrow whatever you feel like.
 
 Best wishes,
